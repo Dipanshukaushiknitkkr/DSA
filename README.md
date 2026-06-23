@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0041-first-missing-positive) |
 | [0059-spiral-matrix-ii](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0260-single-number-iii) |
 ## Bit Manipulation
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0059-spiral-matrix-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
