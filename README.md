@@ -53,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0449-serialize-and-deserialize-bst) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
