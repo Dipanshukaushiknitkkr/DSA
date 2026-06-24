@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0260-single-number-iii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0912-sort-an-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0912-sort-an-array) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2559-count-vowel-strings-in-ranges) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0449-serialize-and-deserialize-bst) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2559-count-vowel-strings-in-ranges) |
 ## Tree
 |  |
 | ------- |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0746-min-cost-climbing-stairs](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0746-min-cost-climbing-stairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [2559-count-vowel-strings-in-ranges](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2559-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
