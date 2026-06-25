@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0260-single-number-iii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0912-sort-an-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0912-sort-an-array) |
+| [1929-concatenation-of-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1929-concatenation-of-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2559-count-vowel-strings-in-ranges) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0059-spiral-matrix-ii) |
+| [1929-concatenation-of-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
