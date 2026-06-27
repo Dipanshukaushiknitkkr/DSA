@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1929-concatenation-of-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2559-count-vowel-strings-in-ranges) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0041-first-missing-positive) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
