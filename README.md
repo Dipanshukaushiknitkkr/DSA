@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2559-count-vowel-strings-in-ranges) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0738-monotone-increasing-digits](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0738-monotone-increasing-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Greedy
 |  |
 | ------- |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Number Theory
+|  |
+| ------- |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 <!---LeetCode Topics End-->
