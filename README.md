@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1046-last-stone-weight) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-concatenation-of-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0912-sort-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0738-monotone-increasing-digits](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0738-monotone-increasing-digits) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 ## Stack
 |  |
@@ -173,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+## Two Pointers
+|  |
+| ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 <!---LeetCode Topics End-->
