@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2559-count-vowel-strings-in-ranges) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3340-check-balanced-string](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3340-check-balanced-string) |
 ## Tree
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0912-sort-an-array) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0738-monotone-increasing-digits](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0738-monotone-increasing-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Greedy
 |  |
