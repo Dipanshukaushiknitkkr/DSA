@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Greedy
 |  |
