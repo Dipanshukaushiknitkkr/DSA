@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0006-zigzag-conversion) |
 | [0032-longest-valid-parentheses](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0394-decode-string](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0394-decode-string) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0394-decode-string](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0394-decode-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
@@ -215,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
