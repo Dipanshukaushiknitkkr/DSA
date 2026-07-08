@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2559-count-vowel-strings-in-ranges) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3340-check-balanced-string](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3340-check-balanced-string) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Graph Theory
 |  |
