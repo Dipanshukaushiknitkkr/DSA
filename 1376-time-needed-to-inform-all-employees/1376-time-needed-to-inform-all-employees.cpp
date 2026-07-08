@@ -7,17 +7,16 @@ public:
         }
         queue<pair<int,int>> q;
         q.push({headID,0});
-        vector<int> vis(n,0);
-        vis[headID]=1;
         int ans=0;
         while(!q.empty()){
             int node=q.front().first;
             int time=q.front().second;
+            time=time+informTime[node];
             q.pop();
             ans=max(ans,time);
             
             for(auto it: adj[node]){
-                q.push({it,time+informTime[node]});
+                q.push({it,time});
             }       
         }
         return ans;
