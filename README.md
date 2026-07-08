@@ -74,16 +74,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1376-time-needed-to-inform-all-employees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1376-time-needed-to-inform-all-employees) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0449-serialize-and-deserialize-bst) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1376-time-needed-to-inform-all-employees) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Design
