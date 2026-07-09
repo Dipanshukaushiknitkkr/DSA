@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0137-single-number-ii](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0260-single-number-iii) |
+| [0416-partition-equal-subset-sum](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0912-sort-an-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0912-sort-an-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0416-partition-equal-subset-sum](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0746-min-cost-climbing-stairs) |
 ## Prefix Sum
 |  |
