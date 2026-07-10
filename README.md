@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0041-first-missing-positive) |
+| [0508-most-frequent-subtree-sum](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
@@ -77,12 +78,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0449-serialize-and-deserialize-bst) |
+| [0508-most-frequent-subtree-sum](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1376-time-needed-to-inform-all-employees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0449-serialize-and-deserialize-bst) |
+| [0508-most-frequent-subtree-sum](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1376-time-needed-to-inform-all-employees) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0449-serialize-and-deserialize-bst) |
+| [0508-most-frequent-subtree-sum](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Database
 |  |
