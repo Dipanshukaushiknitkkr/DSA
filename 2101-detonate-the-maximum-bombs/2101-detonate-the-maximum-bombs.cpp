@@ -38,9 +38,7 @@ public:
         for(int i=0;i<n;i++){
             vector<int> vis(n,0);
             int cnt=0;
-            if(!vis[i]){
-                dfs(i,adj,vis,cnt);
-            }
+            dfs(i,adj,vis,cnt);
             ans=max(ans,cnt);
         }
         return ans;
