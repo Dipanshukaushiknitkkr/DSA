@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2563-count-the-number-of-fair-pairs](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0059-spiral-matrix-ii) |
+| [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Simulation
 |  |
