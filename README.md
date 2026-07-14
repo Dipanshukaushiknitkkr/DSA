@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0394-decode-string) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0583-delete-operation-for-two-strings](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0416-partition-equal-subset-sum](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0583-delete-operation-for-two-strings](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1143-longest-common-subsequence) |
 ## Prefix Sum
