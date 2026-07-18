@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-detonate-the-maximum-bombs](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2101-detonate-the-maximum-bombs) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
