@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0912-sort-an-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1046-last-stone-weight) |
+| [1260-shift-2d-grid](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -46,12 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0059-spiral-matrix-ii) |
+| [1260-shift-2d-grid](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1260-shift-2d-grid) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Simulation
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0059-spiral-matrix-ii) |
+| [1260-shift-2d-grid](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1260-shift-2d-grid) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1929-concatenation-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
