@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0912-sort-an-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1046-last-stone-weight) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0912-sort-an-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1092-shortest-common-supersequence](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1143-longest-common-subsequence) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0738-monotone-increasing-digits](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0738-monotone-increasing-digits) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
