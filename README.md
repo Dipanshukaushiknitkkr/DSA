@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2374-node-with-highest-edge-score](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2374-node-with-highest-edge-score) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2101-detonate-the-maximum-bombs](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2101-detonate-the-maximum-bombs) |
+| [2374-node-with-highest-edge-score](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2374-node-with-highest-edge-score) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
