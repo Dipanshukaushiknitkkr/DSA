@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3452-sum-of-good-numbers](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3452-sum-of-good-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-sum-in-a-matrix](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2679-sum-in-a-matrix) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2679-sum-in-a-matrix](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2679-sum-in-a-matrix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -313,10 +316,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Union-Find
 |  |
 | ------- |
