@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1260-shift-2d-grid) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0877-stone-game) |
 | [1092-shortest-common-supersequence](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1143-longest-common-subsequence) |
 ## Prefix Sum
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0738-monotone-increasing-digits) |
+| [0877-stone-game](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -349,4 +352,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
