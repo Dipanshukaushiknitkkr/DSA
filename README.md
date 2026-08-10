@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2679-sum-in-a-matrix](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2679-sum-in-a-matrix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2101-detonate-the-maximum-bombs) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
