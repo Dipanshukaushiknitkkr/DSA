@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2679-sum-in-a-matrix](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2679-sum-in-a-matrix) |
+| [2951-find-the-peaks](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2951-find-the-peaks) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1291-sequential-digits) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
+| [2951-find-the-peaks](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2951-find-the-peaks) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Sliding Window
