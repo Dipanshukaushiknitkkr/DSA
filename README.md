@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0283-move-zeroes) |
 | [0416-partition-equal-subset-sum](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0485-max-consecutive-ones](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0486-predict-the-winner) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
