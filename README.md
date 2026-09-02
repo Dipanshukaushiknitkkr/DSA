@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2679-sum-in-a-matrix](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2679-sum-in-a-matrix) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2101-detonate-the-maximum-bombs) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
