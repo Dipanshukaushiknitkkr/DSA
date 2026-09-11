@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3452-sum-of-good-numbers](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3452-sum-of-good-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3731-find-missing-elements) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3265-count-almost-equal-pairs-i](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3265-count-almost-equal-pairs-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3265-count-almost-equal-pairs-i](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3265-count-almost-equal-pairs-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0394-decode-string](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
 |  |
 | ------- |
