@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0419-battleships-in-a-board) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0508-most-frequent-subtree-sum) |
+| [0802-find-eventual-safe-states](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0802-find-eventual-safe-states) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1376-time-needed-to-inform-all-employees) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2101-detonate-the-maximum-bombs) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0449-serialize-and-deserialize-bst) |
+| [0802-find-eventual-safe-states](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0802-find-eventual-safe-states) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1376-time-needed-to-inform-all-employees) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0802-find-eventual-safe-states](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0802-find-eventual-safe-states) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2374-node-with-highest-edge-score](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2374-node-with-highest-edge-score) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -463,4 +466,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0070-climbing-stairs) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0802-find-eventual-safe-states) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
