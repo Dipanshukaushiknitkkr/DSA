@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [0769-max-chunks-to-make-sorted](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [0817-linked-list-components](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0817-linked-list-components) |
 | [0877-stone-game](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0912-sort-an-array) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [0769-max-chunks-to-make-sorted](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [0912-sort-an-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0738-monotone-increasing-digits](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0738-monotone-increasing-digits) |
+| [0769-max-chunks-to-make-sorted](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1927-sum-game](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1927-sum-game) |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0394-decode-string](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0394-decode-string) |
+| [0769-max-chunks-to-make-sorted](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
@@ -357,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0769-max-chunks-to-make-sorted](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 ## Enumeration
 |  |
 | ------- |
