@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1929-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [2679-sum-in-a-matrix](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2679-sum-in-a-matrix) |
+| [3498-reverse-degree-of-a-string](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3340-check-balanced-string](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3340-check-balanced-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Tree
 |  |
