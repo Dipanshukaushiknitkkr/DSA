@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0583-delete-operation-for-two-strings](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1092-shortest-common-supersequence](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1092-shortest-common-supersequence) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [0678-valid-parenthesis-string](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0877-stone-game) |
 | [1092-shortest-common-supersequence](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1092-shortest-common-supersequence) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [0678-valid-parenthesis-string](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0738-monotone-increasing-digits](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0738-monotone-increasing-digits) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0394-decode-string](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0394-decode-string) |
+| [0678-valid-parenthesis-string](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -502,4 +506,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
