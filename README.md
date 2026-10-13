@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3265-count-almost-equal-pairs-i](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3265-count-almost-equal-pairs-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Stack
 |  |
 | ------- |
