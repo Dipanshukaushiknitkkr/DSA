@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-sum-in-a-matrix](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2679-sum-in-a-matrix) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2906-construct-product-matrix](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2906-construct-product-matrix) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2951-find-the-peaks](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2951-find-the-peaks) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2374-node-with-highest-edge-score](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2374-node-with-highest-edge-score) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3265-count-almost-equal-pairs-i](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3265-count-almost-equal-pairs-i) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
@@ -522,4 +525,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1021-remove-outermost-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
