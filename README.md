@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0283-move-zeroes) |
 | [0416-partition-equal-subset-sum](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0419-battleships-in-a-board) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0518-coin-change-ii) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0070-climbing-stairs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0738-monotone-increasing-digits) |
