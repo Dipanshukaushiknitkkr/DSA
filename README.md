@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1476-subrectangle-queries](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1476-subrectangle-queries) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0035-search-insert-position) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0283-move-zeroes) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2337-move-pieces-to-obtain-a-string) |
