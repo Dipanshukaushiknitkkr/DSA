@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2951-find-the-peaks](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/2951-find-the-peaks) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3265-count-almost-equal-pairs-i](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3265-count-almost-equal-pairs-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dipanshukaushiknitkkr/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
